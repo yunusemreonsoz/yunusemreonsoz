@@ -14,8 +14,10 @@ Currently completing an MSc in Electrical and Electronics Engineering at Sakarya
 
 | Certificate | Date |
 | --- | --- |
-| LabVIEW Core 1, Core 2, Core 3 | 02/2024 |
+| LabVIEW Core 1 | 02/2024 |
+| LabVIEW Core 2 | 02/2024 |
 | Data Acquisition Using NI-DAQmx and LabVIEW | 03/2024 |
+| LabVIEW Core 3 | 04/2024 |
 | Developing Embedded Applications Using CompactRIO and LabVIEW Real-Time | 05/2024 |
 | Developing Test Programs Using TestStand | 06/2024 |
 | Architecting Test Systems Using TestStand | 06/2024 |
